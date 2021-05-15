@@ -9,7 +9,7 @@ def InputData():
     else:
         print("The number that you entered is invalid.")
         exit()
-
+#abcd
 def calcFactorial(number):
     global Factorial
     Factorial = 1
