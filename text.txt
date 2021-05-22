@@ -1,5 +1,0 @@
-19/2/2021,California,$6.2
-20/4/2021,Peels,$34
-2/1/2021,abc,$56
-20/4/2021,Brampton,$43
-Total amount spend : $139.2
